@@ -2,7 +2,7 @@
   "name": "node-api",
   "main": "main.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node main.js"
   },
   "dependencies": {
     "body-parser": "^1.12.4",
